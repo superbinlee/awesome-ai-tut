@@ -1,0 +1,3 @@
+# lazy programmer courses
+
+## note

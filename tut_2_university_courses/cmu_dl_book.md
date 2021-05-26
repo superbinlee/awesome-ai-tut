@@ -1,0 +1,23 @@
+# cmu dl tut
+
+## note 
+
+[cmu-tut-syllabus](https://deeplearning-cmu-10707.github.io/syllabus.html)  
+[cmu-book-janishar-github](https://github.com/janishar/mit-deep-learning-book-pdf)  
+
+[stanford-tut-list](https://cs.stanford.edu/academics/courses)  
+[cmu-tut-list](https://csd.cmu.edu/course-profiles/csd-course-list#fifteen-fourhundred)  
+[stanford-tut-Quoc V. Le](https://cs.stanford.edu/~quocle/)  
+[stanford-tut-shervine](https://stanford.edu/~shervine/)  
+[stanford-cs228-tut](https://cs228.stanford.edu/)  
+[stanford-cs229-tut](http://cs229.stanford.edu/syllabus.html)  
+[stanford-cs227-tut](https://web.stanford.edu/class/cs227/handouts.html)    
+[stanford-cs230-tut](http://cs230.stanford.edu/files/)  
+[stanford-cs231n-tut](http://cs231n.stanford.edu/schedule.html)  
+[stanford-cs232-tut](https://web.stanford.edu/class/ee368/)  
+
+[illinois-tut-spring17](http://slazebni.cs.illinois.edu/spring17/)
+
+
+
+
