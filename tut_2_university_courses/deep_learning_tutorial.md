@@ -1,4 +1,4 @@
-# cmu dl tut
+# university deep learning tutorial
 
 ## note 
 
