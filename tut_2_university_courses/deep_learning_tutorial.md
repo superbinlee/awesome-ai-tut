@@ -1,6 +1,9 @@
-# university deep learning tutorial
+# University deep learning tutorial
 
-## universiry courses link
+本文主要介绍了当前主流的机器学习教程资源的地址
+
+
+## Universiry courses link
 
 卡耐基梅隆大学教程
 
@@ -15,12 +18,12 @@
 [stanford-tut-shervine](https://stanford.edu/~shervine/)  
 [stanford-cs228-tut](https://cs228.stanford.edu/)  
 [stanford-cs229-tut](http://cs229.stanford.edu/syllabus.html)  
+[stanford-cs229-tut_keynote](http://cs229.stanford.edu/syllabus-spring2021.html)  
 [stanford-cs227-tut](https://web.stanford.edu/class/cs227/handouts.html)    
 [stanford-cs230-tut](http://cs230.stanford.edu/files/)  
 [stanford-cs231n-tut](http://cs231n.stanford.edu/schedule.html)  
 [stanford-cs232-tut](https://web.stanford.edu/class/ee368/)
 [illinois-tut-spring17](http://slazebni.cs.illinois.edu/spring17/)
-
 
 
 
