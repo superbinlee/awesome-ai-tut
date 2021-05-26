@@ -2,7 +2,7 @@
 
 本项目用于记录AI教程、知识、笔记、论文、代码的收集整理.
 
-## catalog
+## Catalog
 
 - ray  
   - 记录了ray学习的笔记  
@@ -12,3 +12,7 @@
   - stanford and cmu courses  
 - cheat sheet  
   - 知识点小抄
+  
+## Reference
+
+- [知乎大神AI资料总结](https://zhuanlan.zhihu.com/p/26876504)
