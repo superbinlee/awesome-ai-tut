@@ -11,3 +11,4 @@
 - [stock_pred_code](https://lazyprogrammer.me/stock-prediction/)  
 - [stanford_cs231n_rnn](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf)  
 - [stanford_cs230_rnn_cheat_sheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+- [通俗的blog_rnn](https://medium.com/analytics-vidhya/rnn-vs-gru-vs-lstm-863b0b7b1573)  
