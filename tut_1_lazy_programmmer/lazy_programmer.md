@@ -15,3 +15,4 @@
 - [中文_blog_rnn](https://medium.com/analytics-vidhya/rnn-vs-gru-vs-lstm-863b0b7b1573)
 - [lazy_progreammer_rnn_code_basic](https://lazyprogrammer.me/stock-prediction/)   
 - [tf_rnn_demo_text_classification](https://www.tensorflow.org/tutorials/text/text_classification_rnn)  
+- [rnn_best_code_github](https://github.com/omerbsezer/LSTM_RNN_Tutorials_with_Demo)  
