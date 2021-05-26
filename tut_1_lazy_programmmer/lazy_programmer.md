@@ -12,4 +12,6 @@
 - [stanford_cs231n_rnn](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf)  
 - [stanford_cs224n_rnn_best](https://web.stanford.edu/class/cs224n/slides/cs224n-2020-lecture07-fancy-rnn.pdf)    
 - [stanford_cs230_rnn_cheat_sheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
-- [通俗的blog_rnn](https://medium.com/analytics-vidhya/rnn-vs-gru-vs-lstm-863b0b7b1573)  
+- [中文_blog_rnn](https://medium.com/analytics-vidhya/rnn-vs-gru-vs-lstm-863b0b7b1573)
+- [lazy_progreammer_rnn_code_basic](https://lazyprogrammer.me/stock-prediction/)   
+- [tf_rnn_demo_text_classification](https://www.tensorflow.org/tutorials/text/text_classification_rnn)  
