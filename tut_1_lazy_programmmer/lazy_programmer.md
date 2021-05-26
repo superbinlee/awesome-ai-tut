@@ -16,3 +16,4 @@
 - [lazy_progreammer_rnn_code_basic](https://lazyprogrammer.me/stock-prediction/)   
 - [tf_rnn_demo_text_classification](https://www.tensorflow.org/tutorials/text/text_classification_rnn)  
 - [rnn_best_code_github](https://github.com/omerbsezer/LSTM_RNN_Tutorials_with_Demo)  
+- [easy_rnn_with_keras](https://github.com/buomsoo-kim/Easy-deep-learning-with-Keras)  
