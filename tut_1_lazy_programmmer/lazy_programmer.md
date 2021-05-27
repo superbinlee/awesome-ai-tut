@@ -1,6 +1,6 @@
 # Lazy programmer courses
 
-## Tutorial Link
+## Tutorial Link 
 
 - [machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples)  
 - [pytorch_ml_code](https://github.com/udacity/deep-learning-v2-pytorch)  
