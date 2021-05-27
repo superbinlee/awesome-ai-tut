@@ -1,6 +1,8 @@
 # AI Summary
 
-学习方法：
+本文总结各类机器学习深度学习的知识、学习思路、教程、代码等.
+
+## 学习方法
 
 - 基础知识  
     - 高等数学、线性代数、矩阵分析、概率论、统计原理  
@@ -42,6 +44,7 @@
     - 评价体系
     - 建模方法：cv/nlp  
     - 应用领域/问题、方法/时间线
+  
 - 学习方法
   - 教程：stanford(cs229 cs230 cs231n)、cmu 
   - 代码：github、tensorflow doc、pytorch doc、cheat sheet、ipynb
