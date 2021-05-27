@@ -16,7 +16,7 @@ import seaborn as sns
 # %matplotlib inline
 import tensorflow_datasets as tfds
 
-!wget https://raw.githubusercontent.com/lazyprogrammer/machine_learning_examples/master/tf2.0/moore.csv
+# !wget https://raw.githubusercontent.com/lazyprogrammer/machine_learning_examples/master/tf2.0/moore.csv
 
 df = pd.read_csv('moore.csv',header=None)
 
