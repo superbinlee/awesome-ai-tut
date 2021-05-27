@@ -15,7 +15,14 @@
 - [cmu_rnn](http://www.cs.cmu.edu/~mgormley/courses/10601-s18/slides/lecture17-rnn.pdf)    
 - [stanford_cs230_rnn_cheat_sheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 - [中文_blog_rnn](https://medium.com/analytics-vidhya/rnn-vs-gru-vs-lstm-863b0b7b1573)
+  
 - [lazy_progreammer_rnn_code_basic](https://lazyprogrammer.me/stock-prediction/)   
 - [tf_rnn_demo_text_classification](https://www.tensorflow.org/tutorials/text/text_classification_rnn)  
 - [rnn_best_code_github](https://github.com/omerbsezer/LSTM_RNN_Tutorials_with_Demo)  
-- [easy_rnn_with_keras](https://github.com/buomsoo-kim/Easy-deep-learning-with-Keras)  
+- [easy_rnn_with_keras](https://github.com/buomsoo-kim/Easy-deep-learning-with-Keras)
+
+
+## GNN 
+
+- [stanford_cs224w](http://web.stanford.edu/class/cs224w/)  
+- 
