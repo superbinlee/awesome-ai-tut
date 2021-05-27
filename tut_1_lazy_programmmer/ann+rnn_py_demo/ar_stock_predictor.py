@@ -38,10 +38,10 @@ D = 1
 X = []
 Y = []
 for t in range(len(series) - T):
-  x = series[t:t+T]
-  X.append(x)
-  y = series[t+T]
-  Y.append(y)
+    x = series[t:t + T]
+    X.append(x)
+    y = series[t + T]
+    Y.append(y)
 
 X = np.array(X).reshape(-1, T)
 Y = np.array(Y)
@@ -49,8 +49,8 @@ N = len(X)
 print("X.shape", X.shape, "Y.shape", Y.shape)
 
 # split into train and test
-Xtrain, Ytrain = X[:-N//2], Y[:-N//2]
-Xtest, Ytest = X[-N//2:], Y[-N//2:]
+Xtrain, Ytrain = X[:-N // 2], Y[:-N // 2]
+Xtest, Ytest = X[-N // 2:], Y[-N // 2:]
 
 # build and train the model
 model = LinearRegression()
@@ -78,12 +78,12 @@ plt.show()
 forecast = []
 input_ = Xtest[0]
 while len(forecast) < len(Ytest):
-  f = model.predict(input_.reshape(1, T))[0]
-  forecast.append(f)
+    f = model.predict(input_.reshape(1, T))[0]
+    forecast.append(f)
 
-  # make a new input with the latest forecast
-  input_ = np.roll(input_, -1)
-  input_[-1] = f
+    # make a new input with the latest forecast
+    input_ = np.roll(input_, -1)
+    input_[-1] = f
 plt.plot(Ytest, label='target')
 plt.plot(forecast, label='prediction')
 plt.legend()
