@@ -1,4 +1,4 @@
-# Lazy programmer courses  
+# AI Summary
 
 学习方法：
 
