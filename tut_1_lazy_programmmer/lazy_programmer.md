@@ -10,7 +10,6 @@
     - 分类、回归、聚类、降维  
     - 监督、无监督、半监督、强化学习
     - 常见算法
-    - 学习方法stanford, cmu 
       - 构造间隔理论分布：聚类分析和模式识别
           - 人工神经网络
           - 决策树
@@ -33,6 +32,16 @@
           - 马尔可夫链
           - 蒙特卡罗方法
           - 变分法
+    - 学习方法
+      - 教程：stanford(cs229 cs230 cs231n)、cmu 
+      - 代码：github、tensorflow doc、pytorch doc
+      - 论文: 
+          - review: 综述类文章，了解方法、问题、应用、时间线
+          - classical：经典论文
+          - current：当前主流的技术
+          - application：应用类论文
+      - 竞赛：kaggle、tianchi
+      - 招聘: 数据分析、深度学习
 
 
 ## Tutorial Link 
