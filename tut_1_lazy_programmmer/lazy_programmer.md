@@ -78,13 +78,14 @@
 - [cmu_rnn](http://www.cs.cmu.edu/~mgormley/courses/10601-s18/slides/lecture17-rnn.pdf)    
 - [stanford_cs230_rnn_cheat_sheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 - [中文_blog_rnn](https://medium.com/analytics-vidhya/rnn-vs-gru-vs-lstm-863b0b7b1573)
-  
+
+## code   
 - [lazy_progreammer_rnn_code_basic](https://lazyprogrammer.me/stock-prediction/)   
 - [tf_rnn_demo_text_classification](https://www.tensorflow.org/tutorials/text/text_classification_rnn)  
 - [rnn_best_code_github](https://github.com/omerbsezer/LSTM_RNN_Tutorials_with_Demo)  
 - [easy_rnn_with_keras](https://github.com/buomsoo-kim/Easy-deep-learning-with-Keras)
 
-## RNN面经
+## interview
 
 - [循环神经网络(RNN)全面](https://blog.csdn.net/Heitao5200/article/details/104980045)
 - [LSTM和GRU的区别](https://blog.csdn.net/vivian_ll/article/details/88780661)    
