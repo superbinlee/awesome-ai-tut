@@ -117,8 +117,8 @@ plt.show()
 Ptrain = model.predict(inputs_train).flatten()
 Ptest = model.predict(inputs_test).flatten()
 
-print("rnn train mae:", mae(Ytrain, Ptrain))
-print("rnn test mae:", mae(Ytest, Ptest))
+print("RNN_doc train mae:", mae(Ytrain, Ptrain))
+print("RNN_doc test mae:", mae(Ytest, Ptest))
 
 # plot predictions vs targets
 plt.plot(Ytest, label='targets')
